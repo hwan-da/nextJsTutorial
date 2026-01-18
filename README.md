@@ -1,2 +1,3 @@
-# nextJsTutorial
-repository for next.js tutorial
+# next.js 튜토리얼
+
+개발 처음 배울 때 같다...
